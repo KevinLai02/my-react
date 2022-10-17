@@ -1,4 +1,3 @@
-// import React, { useState } from "react";
 import {
   AppSignUp,
   ButtonUp,
@@ -6,7 +5,6 @@ import {
   InformationBox,
   ButtonContainer,
 } from "./SignUp.style";
-import axios from "axios";
 import { observer } from "mobx-react-lite";
 import { useStore, LightContext } from "../../store";
 import { useContext } from "react";
