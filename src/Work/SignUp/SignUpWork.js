@@ -30,6 +30,7 @@ function SignUpWork() {
     background: LightTheme ? "#ffffff" : "#000",
     color: LightTheme ? "#000000" : "#fff",
   };
+  
   const FormTheme = {
     transition: "1s",
     background: LightTheme ? "#007979" : "#C1FFE4",
